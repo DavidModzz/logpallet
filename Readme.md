@@ -7,13 +7,13 @@ Un paquete de registro para Node.js que proporciona diferentes modos de registro
 Para instalar el paquete, utiliza el siguiente comando:
 
 ```shell
-npm install logPalette
+npm install logpalette
 ```
 
 ## Uso
 
 ```javascript
-const logger = require('logPalette');
+const logger = require('logpalette');
 
 // Ejemplos de uso
 logger.log('Esto es un mensaje de información.', 'info');
